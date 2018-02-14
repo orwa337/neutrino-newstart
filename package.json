@@ -6,6 +6,7 @@
   "scripts": {
     "build": "neutrino build",
     "start": "neutrino start",
+    "fix": "neutrino lint --fix",
     "lint": "neutrino lint"
   },
   "keywords": [],
